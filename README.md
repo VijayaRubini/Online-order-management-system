@@ -30,10 +30,10 @@ ________________________________________
 🚦 How to Run the Project
 1.	Clone the repository:
 Bash
-git clone https://github.com/your-username/order-management-system.git
+git clone https://github.com/VijayaRubini/Online-order-management-system.git
 2.	Navigate to the project folder:
 Bash
-cd order-management-system
+cd Online-order-management-system
 3.	Run the application:
 Bash
 mvn spring-boot:run
